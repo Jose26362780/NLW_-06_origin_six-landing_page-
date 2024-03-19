@@ -14,7 +14,7 @@ mas pode ser adaptado para diversos tipos de micro, pequenas e médias empresas.
 
 ![Netlify](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-👉🏼[Link do projeto]()
+👉🏼[Link do projeto](https://nlw-6-beauty-salon.netlify.app/)
 
 ## Tecnologias
 
