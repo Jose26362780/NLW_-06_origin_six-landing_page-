@@ -12,7 +12,7 @@ mas pode ser adaptado para diversos tipos de micro, pequenas e médias empresas.
 
 ## 🔗 Deploy 
 
-![Netlify](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 👉🏼[Link do projeto](https://nlw-6-beauty-salon.netlify.app/)
 
